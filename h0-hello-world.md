@@ -6,3 +6,7 @@ Test for it
 
     snafu
     fubar
+
+## Link example
+
+[spacejam!](spacejam.com/1996)
