@@ -9,4 +9,4 @@ Test for it
 
 ## Link example
 
-[spacejam!](https://spacejam.com/1996)
+[spacejam!](https://www.spacejam.com/1996)
