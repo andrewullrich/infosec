@@ -1,8 +1,8 @@
-#Markdown test
+# Markdown test
 
-This is only a test.
+Test for it
 
-##Coding
+## Code snippet test
 
-  how to do code
-  
+   snafu
+   fubar
