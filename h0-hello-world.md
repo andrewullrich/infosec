@@ -4,5 +4,5 @@ Test for it
 
 ## Code snippet test
 
-   snafu
-   fubar
+    snafu
+    fubar
